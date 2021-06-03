@@ -1,5 +1,64 @@
 # awesome-list
 
+整理下关注过的库
+
+## Svg/Canvas
+
+* [offscreen-canvas](https://github.com/ai/offscreen-canvas)
+
+#### engine
+
+* [pixijs](https://github.com/pixijs/pixijs)
+* [rough 手绘风格绘图](https://github.com/rough-stuff/rough)
+
+#### animation
+
+* [vivus](https://github.com/maxwellito/vivus)
+* [anime](https://github.com/juliangarnier/anime)
+
+#### chart
+
+* [visx](https://github.com/airbnb/visx)
+* [charts](https://github.com/frappe/charts)
+
+#### flowchart
+
+* [react-flow](https://github.com/wbkd/react-flow)
+* [flowchart-fun](https://github.com/tone-row/flowchart-fun)
+
+#### spreadsheet
+
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+* [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+* [canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid)
+
+##### pixel art
+
+* [piskel](https://github.com/piskelapp/piskel)
+
+## Editor
+
+#### engine
+
+* [slate](https://github.com/ianstormtaylor/slate)
+* [react-quill](https://github.com/zenoamaro/react-quill)
+* [prosemirror](https://github.com/ProseMirror/prosemirror)
+* [trix](https://github.com/basecamp/trix)
+* [remirror](https://github.com/remirror/remirror)
+* [taleweaver](https://github.com/yuzhenmi/taleweaver)
+* [react-pdf](https://github.com/wojtekmaj/react-pdf)(layout)
+
+#### collaborate
+
+* [slate-collaborative](https://github.com/cudr/slate-collaborative)
+* [teletype-crdt](https://github.com/atom/teletype-crdt)
+* [yjs](https://github.com/yjs/yjs)
+* [ot.js](https://github.com/Operational-Transformation/ot.js)
+
+#### highlight
+
+* [prism](https://github.com/PrismJS/prism)
+
 ## React
 
 * [reselect](https://github.com/reduxjs/reselect)
@@ -141,63 +200,6 @@
 ## Programming
 
 * [README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-
-## Svg/Canvas
-
-* [offscreen-canvas](https://github.com/ai/offscreen-canvas)
-
-#### engine
-
-* [pixijs](https://github.com/pixijs/pixijs)
-* [rough 手绘风格绘图](https://github.com/rough-stuff/rough)
-
-#### animation
-
-* [vivus](https://github.com/maxwellito/vivus)
-* [anime](https://github.com/juliangarnier/anime)
-
-#### chart
-
-* [visx](https://github.com/airbnb/visx)
-* [charts](https://github.com/frappe/charts)
-
-#### flowchart
-
-* [react-flow](https://github.com/wbkd/react-flow)
-* [flowchart-fun](https://github.com/tone-row/flowchart-fun)
-
-#### spreadsheet
-
-* [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-* [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-* [canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid)
-
-##### pixel art
-
-* [piskel](https://github.com/piskelapp/piskel)
-
-## Editor
-
-#### engine
-
-* [slate](https://github.com/ianstormtaylor/slate)
-* [react-quill](https://github.com/zenoamaro/react-quill)
-* [prosemirror](https://github.com/ProseMirror/prosemirror)
-* [trix](https://github.com/basecamp/trix)
-* [remirror](https://github.com/remirror/remirror)
-* [taleweaver](https://github.com/yuzhenmi/taleweaver)
-* [react-pdf](https://github.com/wojtekmaj/react-pdf)(layout)
-
-#### collaborate
-
-* [slate-collaborative](https://github.com/cudr/slate-collaborative)
-* [teletype-crdt](https://github.com/atom/teletype-crdt)
-* [yjs](https://github.com/yjs/yjs)
-* [ot.js](https://github.com/Operational-Transformation/ot.js)
-
-#### highlight
-
-* [prism](https://github.com/PrismJS/prism)
 
 ## Go
 
